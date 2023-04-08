@@ -1,0 +1,14 @@
+How much experience do you have with Javascript?,Using jestviz is compatible with my debugging style,Using jestviz fits well with the way I like to understand stack traces,Using jestviz would improve my understanding of function calls that produce the errors on certain types of inputs.,Using jestviz would improve my ability to foresee different type of errors that might occur in the future when the same/similar sequence of functions are called,Using jestviz would help me spot bugs faster when compared to stack trace,I think learning to use jestviz is easy,I think getting accustomed to jestviz is easy,I think using jestviz is easy,"Given that I had access to jestviz, I predict that I would use it ","Given that I had access to jestviz, I predict that I would use it ","Additional Comments, Critiques and Suggestions"
+,C1,C2,PU1,PU2,PU3,PEOU1,PEOU2,BI1,AU1,AU1,
+1 month,5,5,5,5,5,5,5,5,5,5,
+2 moths,4,5,5,5,4,4,3,3,3,3,
+2month,4,4,5,3,4,4,4,4,5,5,
+2 weeks,4,3,5,4,5,5,4,5,4,4,The visualization could be displayed in a separate tab in devTools.
+3 weeks,4,3,4,4,4,4,4,4,4,4,
+2 months,5,5,5,5,5,5,5,5,5,5,
+1 month,5,3,5,5,5,5,5,5,5,5,
+< month,4,5,5,4,5,4,4,5,4,4,
+3 months,4,5,4,5,4,4,4,4,5,5,
+6 weeks,5,3,5,3,5,4,3,4,5,5,The tool could be made responsive to smaller screen sizes.
+Mean,4.4,4.1,4.8,4.3,4.6,4.4,4.1,4.4,4.5,4.5,
+SD,0.5163977795,0.994428926,0.4216370214,0.8232726023,0.5163977795,0.5163977795,0.7378647874,0.6992058988,0.7071067812,0.7071067812,
